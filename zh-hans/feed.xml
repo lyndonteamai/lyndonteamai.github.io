@@ -6,7 +6,7 @@
   <description>OpenLMS 为香港企业及学校而建的开源学习管理系统（LMS）与培训管理系统（TMS）。建基于 Drupal LMS，所有价格一律公开：平台对所有人免费，代管服务每人每年 HK$30，自建安装 HK$30,000。利润全数投回开源。</description>
   <language>zh-Hans-CN</language>
   <copyright>OpenLMS</copyright>
-  <lastBuildDate>Mon, 09 Nov 2026 01:28:19 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 01:55:55 GMT</lastBuildDate>
   <atom:link href="https://lyndonteamai.github.io/zh-hans/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Opigno 与 Drupal LMS：香港开源 LMS 应该选哪一个？ | OpenLMS</title>
@@ -66,154 +66,154 @@
     <link>https://lyndonteamai.github.io/zh-hans/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/</guid>
     <description>OpenLMS 为香港企业及学校而建的开源学习管理系统（LMS）与培训管理系统（TMS）。建基于 Drupal LMS，所有价格一律公开：平台对所有人免费，代管服务每人每年 HK$30，自建安装 HK$30,000。利润全数投回开源。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>LMS 及 TMS 模块 — 六个互联培训模块 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/modules/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/modules/</guid>
     <description>OpenLMS 六大培训模块：内部培训、外部培训、在线学习、微学习、考试管理及报表分析。模块式推行，共用员工与课程数据。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>内部培训管理系统 香港 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/modules/internal-training/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/modules/internal-training/</guid>
     <description>为香港人力资源而建的内部培训管理：课程与班级设置、报名与候补名单、二维码与公司卡打卡、提醒、员工学习纪录与报表。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>外部培训管理系统 香港 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/modules/external-training/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/modules/external-training/</guid>
     <description>为香港人力资源而建的外部培训管理：课程申请、多级审批、资助规则、报销、证书与佐证文件，全部在同一条可审计的流程内。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>在线学习 LMS 香港 | 课程与评估 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/modules/online-learning/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/modules/online-learning/</guid>
     <description>为香港机构而建的在线学习：课程编写、H5P 互动视频、测验与知识检核、灵活指派、学员进度与报表。支持 SCORM 1.2 及 2004。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>微学习平台 香港 | 短片与文章 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/modules/micro-learning/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/modules/micro-learning/</guid>
     <description>香港职场微学习：短片与精简文章、留言与讨论、按职位／部门／主题定向发布，以及随时间变化的参与度洞察。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>考试管理软件 香港 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/modules/exam-management/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/modules/exam-management/</guid>
     <description>香港考试管理：题库、随机试卷、申请与资格、场次与场地预订、座位及电脑分配、考试执行、评卷与成绩。支持离线运行。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>企业 LMS 平台 香港 | HR 集成与治理 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/platform/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/platform/</guid>
     <description>OpenLMS 企业平台：组织架构、按角色权限访问、定制流程、HRIS 集成、单一登录、API、审计纪录，以及云端或自建部署，授权费全免。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>学习分析与培训报表 | OpenLMS 香港</title>
     <link>https://lyndonteamai.github.io/zh-hans/platform/reporting/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/platform/reporting/</guid>
     <description>香港培训报表与学习分析：需求分析、培训成效、资源分配、团队目标、进度监察与定制视觉报表。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>LMS 系统集成 香港 | HRIS、SSO、API 与内容库 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/integrations/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/integrations/</guid>
     <description>OpenLMS 平台的集成选择：人力资源数据交换、单一登录（SAML/OIDC）、REST 与 GraphQL API、SCORM、xAPI、H5P 及外部内容库。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>香港企业与学校 LMS 方案 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/solutions/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/solutions/</guid>
     <description>OpenLMS 的香港方案：企业人力资源与学习发展的培训运行、学校的课程交付与评估，以及开源与商业 LMS 的并列比较。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>企业 LMS 香港 | 人力资源与学习发展 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/solutions/enterprise/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/solutions/enterprise/</guid>
     <description>OpenLMS 为香港企业而设：内外部培训、审批、资助、合规、报表与员工纪录，零授权费。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>学校 LMS 香港 | 课程交付与评估 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/solutions/schools/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/solutions/schools/</guid>
     <description>OpenLMS 为香港学校、补习社及课程提供者而设：学生账户不设上限、课程交付、测验、功课、进度追踪、证书与家长沟通，零授权费。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>定制教材开发 香港 | 专业电子学习内容 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/courseware/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/courseware/</guid>
     <description>香港定制教材开发：教学设计、繁体中文与英文电子学习内容、SCORM 与 H5P 制作、合规与领导力课程，直接在 OpenLMS 平台上运行。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>开源 LMS 基础 | Drupal LMS 与 Drupal 11 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/open-source/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/open-source/</guid>
     <description>OpenLMS 的开源基础：建基于 Drupal 10.3 以上版本及 11 的 Drupal LMS，源自 Opigno 并为 Drupal 10 重新编写。生态模块涵盖 SCORM、H5P、xAPI、证书、YAML 与迁移。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>收费 — 价目公开，无隐藏收费 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/pricing/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/pricing/</guid>
     <description>OpenLMS 收费，所有数字一律公开：平台对所有客户永久免费，500 用户以内每人每年 HK$30，500 用户或以上每人每年 HK$20，自建安装 HK$30,000，客制开发每个工作天 HK$1,500。利润全数反馈开源社区。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>开源 LMS 与商业 LMS 比较 香港 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/compare/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/compare/</guid>
     <description>开源 LMS 平台与香港商业 LMS 产品的坦诚比较：授权费、数据拥有权、定制、部署、内容标准与总持有成本。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>服务 | 教材开发与实施配置 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/services/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/services/</guid>
     <description>OpenLMS 服务：以英文、繁体中文（香港）及简体中文制作的香港定制教材，以及为香港企业部署提供的实施配置与系统集成支持。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>关于 OpenLMS | 香港开源学习系统</title>
     <link>https://lyndonteamai.github.io/zh-hans/about/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/about/</guid>
     <description>OpenLMS 是一间香港开源学习系统顾问团队：100% 开源核心，对每一位客户免费，所有价格公开，利润全数投回建设更多开源软件。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>香港 LMS 常见问题 | 授权、成本与部署 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/faq/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/faq/</guid>
     <description>关于香港开源学习管理系统的常见问题解答：授权费、数据拥有权、部署、SCORM 支持、人力资源集成、学校使用、AI 与总持有成本。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>联系我们 | 预约 OpenLMS 示范或咨询</title>
     <link>https://lyndonteamai.github.io/zh-hans/contact/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/contact/</guid>
     <description>预约 OpenLMS 示范或平台实施咨询。带上你的培训流程、审批政策与报表要求。香港企业与学校的 LMS 部署，零授权费。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
   <item>
     <title>博客 — 香港 LMS 洞察、实用指南与开源笔记 | OpenLMS</title>
     <link>https://lyndonteamai.github.io/zh-hans/blog/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/zh-hans/blog/</guid>
     <description>关于香港 LMS、TMS 与电子学习的实用文章：开源方案比较、SCORM 与 xAPI 指引、Drupal LMS 工程分析，以及为企业与学校做的诚实成本拆解。</description>
-    <pubDate>Mon, 09 Nov 2026 01:28:19 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 01:55:55 GMT</pubDate>
   </item>
 </channel>
 </rss>
