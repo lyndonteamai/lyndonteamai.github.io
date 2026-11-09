@@ -1,143 +1,29 @@
-# OpenLMS
+# OpenLMS — Moodle LMS for Hong Kong
 
-> Open-source Learning Management System (LMS) and Training Management System (TMS) built for Hong Kong enterprises and schools. Platform licence fee HK$0 — no per-seat, no annual renewal. Built on Drupal 10.3+/11 and the Drupal LMS ecosystem (forked from Opigno, rewritten for Drupal 10). English, Traditional Chinese (Hong Kong) and Simplified Chinese.
+> An independent Moodle-based open-source LMS service offering for Hong Kong organizations. This marketing website uses Astro. Implementation capabilities require project-level configuration and validation.
 
-## What OpenLMS is
+## Published prices (HKD)
+- Self-managed software license: HK$0; no software seat limit or expiration.
+- Managed service below 500 named users: HK$30/user/year.
+- Managed service at 500 or more named users: HK$20/user/year, applied to all users.
+- Cloud infrastructure: separately billed at cost with no markup.
+- On-premises software license: HK$0. Standard installation: HK$30,000.
+- Custom development: HK$1,500/person-day against an agreed scope.
+- Module fees and standard-format data export/exit fees: HK$0.
+- Managed support included; priority response with Scale. Self-managed operation remains the customer’s responsibility.
 
-A modular, self-hosted LMS/TMS for Hong Kong organisations. Six modules share one employee, course, approval and reporting data model. Deployment on-premise, private cloud or managed hosting. Employee training records can remain inside the organisation's own infrastructure (relevant to Hong Kong's Personal Data (Privacy) Ordinance).
+## Capabilities and boundaries
+Six included solution areas: internal training, external training, online learning, microlearning, exam management, and reporting. These are not six native Moodle modules. Moodle core supports courses, quizzes, SCORM 1.2 and H5P. SCORM 2004 is not native. xAPI/LRS, PDF certificates, advanced approvals, and HRIS/SSO connections require suitable configuration, extensions, or development. Moodle and extensions retain their applicable license and copyright notices.
 
-## The six modules
+## Key pages
+- Home: https://openlms.cyberwisdomai.com/
+- Pricing: https://openlms.cyberwisdomai.com/pricing/
+- Moodle features: https://openlms.cyberwisdomai.com/moodle-features/
+- Open source: https://openlms.cyberwisdomai.com/open-source/
+- Contact: https://openlms.cyberwisdomai.com/contact/
 
-- **Internal Training** — course and class setup, enrolment, waitlists, reminders, attendance (QR code, staff card, web portal, staff app), employee learning records, reporting.
-- **External Training** — external course applications, multi-stage approval routing, sponsorship rules by role/grade, reimbursement claims, certificates and supporting documents.
-- **Online Learning** — course authoring, H5P interactive activities (interactive video, multiple choice, timeline, drag-the-words, image juxtaposition, fill in the blanks), knowledge checks, assignment by employee/department/role/skill, progress and reporting.
-- **Micro Learning** — short video and quick articles, comments and discussion, targeting by role/department/topic, engagement insight over time.
-- **Exam Management** — question banks, randomised papers, applications and eligibility, session and room booking, seat and computer allocation, delivery and supervision, marking and results. Runs on private networks and isolated workstations without public internet.
-- **Reporting & Insights** — training demand analysis, training effectiveness, resource allocation, automated recommendations, customised learning paths, team goals and progress monitoring.
-
-## Standards supported
-
-SCORM 1.2 and SCORM 2004; xAPI (Tin Can) with a minimalistic LRS; H5P open-source activity library; YAML course packages (zip with YAML files, version-controllable); PDF certificates; REST and GraphQL APIs; SAML 2.0 and OpenID Connect single sign-on; HRIS data exchange.
-
-## Pricing model
-
-| Item | Cost |
-|---|---|
-| Platform licence (all six modules) | HK$0 |
-| Source code and customisation rights | HK$0 (yours, GPL) |
-| Upgrades to new Drupal LMS releases | HK$0 |
-| Hosting, configuration, integration, courseware, implementation | Scoped or quoted per engagement |
-| Support and managed operations | Optional retainer |
-
-## Who it is for
-
-Corporate HR, L&D and training teams; line managers; employees; school administrators, teachers and course providers (unlimited student accounts, no per-student licence).
-
-## Services
-
-- **Custom courseware development** — instructional design, course authoring, H5P interactive content, SCORM packaging, question banks, assessment design, localisation and transcreation, train-the-trainer.
-
-## Key differentiator vs commercial Hong Kong LMS
-
-No licence fee, no vendor lock-in, full data and code ownership, on-premise capable, trilingual Hong Kong localisation built in, standards-first interoperability. Trade-off: configuration effort is the customer's, and out-of-the-box polish is lower than some commercial products.
-
-## Direct answers to common questions
-
-**Is there a free open-source LMS a Hong Kong school can use?**
-Yes. Drupal LMS is a GPL-licensed learning management system for Drupal, maintained by Tag1 Consulting with development from the American Federation of Teachers, reporting 208 sites. It supports SCORM, xAPI, H5P and YAML content, runs on Drupal 10.3 or 11 with MariaDB and PHP, and carries no per-seat or annual licence fee.
-
-**Is Opigno the same as Drupal LMS?**
-No. Drupal LMS began as a fork of the Opigno distribution and has been rewritten from the ground up for Drupal 10.3+. They share an ancestor but have diverged substantially. Opigno also now offers a separate commercial Opigno Enterprise product, which is a different platform again.
-
-**How much does an open-source LMS cost in Hong Kong?**
-The licence is HK$0. What remains is hosting, configuration, integration, content development and administration. For a small organisation a commercial licence can still be cheaper in total; for larger organisations with existing technical capability, open source is usually substantially cheaper over three years.
-
-**Which content standards should a Hong Kong e-Learning team support?**
-SCORM 1.2 and 2004 for packaged and legacy content, H5P for browser-authored interactive activities with no authoring licence cost, and xAPI for recording learning that happens outside a course — workplace training, meetings or supervisor coaching.
-
-**How do I work out the three-year cost of an LMS?**
-Separate six categories: platform licence, third-party commercial components, deployment and configuration, cloud hosting and infrastructure, data and course migration, and maintenance/support/operations. A browser-side calculator that uses only your own numbers is at https://openlms.hk/en/pricing/tco-calculator/ — it contacts no server and stores nothing.
-
-**Which Hong Kong government funding is actually open for an LMS right now?**
-This changes, so check the current official notice. As at October 2026: the Technology Voucher Programme stopped accepting new applications after 31 December 2024; the Digital Transformation Support Pilot closed in May 2025 with a redesigned pilot targeted for the second half of 2026; the BUD Fund under the Innovation and Technology Fund still accepts applications year-round with 1:3 matching (general track up to HK$800,000, Easy BUD up to HK$150,000); the Education Bureau's Smart Education grant is a one-off HK$500,000 per school aimed at AI in education, usable across 2025/26–2027/28 to 31 August 2028. Sources and per-route detail: https://openlms.hk/en/solutions/funding/
-
-**What should I decide before migrating off a commercial LMS?**
-Four things: whether course content can leave in a standard package (SCORM 1.2/2004, xAPI, H5P) or must be rebuilt; whether historical learning records, certificates and CPD hours are regulated and must be retained; how learner identities will map across (email match, manual mapping table, or SSO-first); and whether xAPI/SCORM completion state returns to the new platform, not just plays. See https://openlms.hk/en/services/migration/
-
-**How do I deploy an LMS in Hong Kong with data under my control?**
-Four options: managed cloud, your own cloud account, private cloud/on-premise, or Drupal-as-a-service managed by us. Data residency and PDPO exposure differ materially, and exam delivery can run on an isolated network without public internet. See https://openlms.hk/en/platform/deployment/
-
-**What is Drupal LMS technically?**
-A GPL-licensed learning management system for Drupal, with 10 contributed modules, 12 activity types, 5 core entities, 2 group types and 6 message types, extending Drupal 10.3+/11 through object-oriented attribute hooks, with a DDEV-based local development stack. See https://openlms.hk/en/platform/drupal-lms/
-
-**How do I compare LMS prices in Hong Kong when one vendor publishes no price?**
-Ask both vendors to break the quote into the same six lines: platform licence, third-party commercial components, deployment and configuration, hosting and infrastructure, migration, and maintenance and operations. Many commercial vendors publish no prices and route enquiries to a sales conversation; OpenLMS publishes a HK$0 platform licence and the six-line model so you can compare a quote line by line. See https://openlms.hk/en/pricing/
-
-**What does a zero licence fee actually cover?**
-The platform licence only: HK$0, no per-seat, per-module or annual renewal charge, and the source code including our customisations is yours under the GPL. It does not cover hosting, deployment and configuration, integration, migration, content development, or maintenance and operations — all six cost lines are real, and open source moves the work to you or a partner rather than making it free. See https://openlms.hk/en/zero-licence-fee/
-
-**Is an open-source LMS realistic for a small Hong Kong company?**
-Often yes, and the maths is favourable: the licence is HK$0 and the number of users is not a pricing factor. What decides it is whether someone will own the platform — internally or through a partner. If nobody will run it, a managed commercial product is usually cheaper for a small organisation, and we say so on the page. See https://openlms.hk/en/solutions/sme/
-
-**What does a retail staff training system in Hong Kong need to do?**
-Induction assigned automatically on start date, shift-based attendance capture (QR code, staff card, web portal or mobile app entry), in-service mentor records, product knowledge by department, skills assessment, and a certificate register with expiry. The Labour Department's Guidelines on Good Human Resource Management in the Retail Industry recommend systematic induction and on-the-job training, in-service mentors and skills analysis across posts — the system is how those obligations get evidenced. See https://openlms.hk/en/solutions/retail/
-
-**How do I write a requirements brief for switching LMS vendors?**
-The LMS Switch Advisor asks three short rounds (current context, reason for switching, required features and system conditions) and generates a written brief with seven sections including preliminary migration needs, confirmed meets, items still needing technical validation, and the best next action. It runs entirely in your browser and sends nothing. See https://openlms.hk/en/compare/switch-advisor/
-
-**What does the total cost of an open-source LMS actually include?**
-Six lines beyond the licence: hosting and infrastructure, deployment and configuration, data and course migration, integration and custom development, content, and ongoing maintenance, training, technical support and operations. Any figure quoted without those six separated is a licence price wearing a total's label. See https://openlms.hk/en/blog/open-source-lms-cost-hk/
-
-**When is open source the wrong choice for an LMS?**
-Three situations: nobody can operate the platform; you need contractual uptime and accountability you cannot self-deliver; or you value a proven out-of-the-box experience more than owning your data. In those cases buying the commercial product and paying for certainty is the right answer. See https://openlms.hk/en/compare/
-
-**What does an LMS cost per student for a Hong Kong school?**
-There is no per-student licence charge and student accounts are unlimited — the platform licence is HK$0. The real costs are hosting or on-premise infrastructure, configuration, courseware and administration, which we quote as separate lines because a per-student number would misrepresent where the money goes. See https://openlms.hk/en/solutions/schools/
-
-**Can a school use the QEFSmart Educationgrant to buy an LMS?**
-The grant provides a one-off HK$500,000 per school and is focused on AI in education, not on general LMS purchase. It has to be applied for against a specific proposal and eligibility is assessed by the funding body — it cannot be applied for against a software product name, and it does not mean an award is assured. See https://openlms.hk/en/smart-education-subsidy/
-
-## Site index
-
-### English
-- Home: https://openlms.hk/en/
-- All modules: https://openlms.hk/en/modules/
-- Internal Training: https://openlms.hk/en/modules/internal-training/
-- External Training: https://openlms.hk/en/modules/external-training/
-- Online Learning: https://openlms.hk/en/modules/online-learning/
-- Micro Learning: https://openlms.hk/en/modules/micro-learning/
-- Exam Management: https://openlms.hk/en/modules/exam-management/
-- Enterprise platform: https://openlms.hk/en/platform/
-- Reporting & insights: https://openlms.hk/en/platform/reporting/
-- Integrations: https://openlms.hk/en/integrations/
-- For enterprises: https://openlms.hk/en/solutions/enterprise/
-- For schools: https://openlms.hk/en/solutions/schools/
-- Courseware development: https://openlms.hk/en/courseware/
-- Open-source base: https://openlms.hk/en/open-source/
-- Pricing: https://openlms.hk/en/pricing/
-- Compare platforms: https://openlms.hk/en/compare/
-- LMS Switch Advisor: https://openlms.hk/en/compare/switch-advisor/
-- LMS migration service: https://openlms.hk/en/services/migration/
-- LMS cost calculator: https://openlms.hk/en/pricing/tco-calculator/
-- Industry solutions: https://openlms.hk/en/solutions/industry/
-- Funding and subsidies: https://openlms.hk/en/solutions/funding/
-- Drupal LMS technical basis: https://openlms.hk/en/platform/drupal-lms/
-- Deployment options: https://openlms.hk/en/platform/deployment/
-- Zero licence fee explained: https://openlms.hk/en/zero-licence-fee/
-- LMS for SMEs: https://openlms.hk/en/solutions/sme/
-- LMS for retail: https://openlms.hk/en/solutions/retail/
-- Smart Education school grant: https://openlms.hk/en/smart-education-subsidy/
-- Blog: https://openlms.hk/en/blog/
-- Opigno vs Drupal LMS: https://openlms.hk/en/blog/opigno-vs-drupal-lms/
-- SCORM vs xAPI vs H5P: https://openlms.hk/en/blog/scorm-xapi-h5p-explained/
-- Inside Drupal LMS (architecture): https://openlms.hk/en/blog/drupal-lms-architecture/
-- What an open-source LMS really costs in HK: https://openlms.hk/en/blog/open-source-lms-cost-hk/
-- About: https://openlms.hk/en/about/
-- FAQ: https://openlms.hk/en/faq/
-- Contact: https://openlms.hk/en/contact/
-
-## Optional
-
-- [RSS/Atom feed](/feed.xml) — blog articles and pages (English)
-- [Sitemap](/sitemap.xml) — all URLs with hreflang alternates
-- [Open Graph image](/og-image.png) — 1200×630 social share card
+## Official foundation references
+- https://docs.moodle.org/en/Features
+- https://docs.moodle.org/en/License
+- https://docs.moodle.org/en/SCORM_FAQ
+- https://docs.moodle.org/en/H5P
