@@ -6,10 +6,10 @@
   <description>Moodle-based open-source LMS for Hong Kong enterprises and schools. Free software, transparent managed-service pricing, and source code freedom.</description>
   <language>en</language>
   <copyright>OpenLMS</copyright>
-  <lastBuildDate>Mon, 09 Nov 2026 06:47:38 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 10:50:02 GMT</lastBuildDate>
   <atom:link href="https://lyndonteamai.github.io/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>SCORM vs xAPI vs H5P: Which Content Standard for HK e-Learning? | OpenLMS</title>
+    <title>SCORM, xAPI, and H5P for Hong Kong Moodle eLearning Projects | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/blog/scorm-xapi-h5p-explained/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/blog/scorm-xapi-h5p-explained/</guid>
     <description>Moodle core supports SCORM 1.2 and H5P. SCORM 2004 is not supported natively. xAPI/LRS connections and PDF certificates require compatible extensions or integration, validated for the selected Moodle version.</description>
@@ -23,7 +23,7 @@
     <category>LRS</category>
   </item>
   <item>
-    <title>What an Open-Source LMS Really Costs in Hong Kong | OpenLMS</title>
+    <title>Free Moodle LMS Costs in Hong Kong: Hosting, Setup, and Managed Service | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/blog/open-source-lms-cost-hk/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/blog/open-source-lms-cost-hk/</guid>
     <description>HK$0 license is the headline. The real total cost of ownership sits in hosting, configuration, integration, content and administration. We break it down honestly for Hong Kong organizations.</description>
@@ -35,7 +35,7 @@
     <category>Hong Kong</category>
   </item>
   <item>
-    <title>Choosing Moodle for a Hong Kong organization | OpenLMS</title>
+    <title>Choosing a Free Moodle LMS for Your Hong Kong Organization | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/blog/moodle-open-source-hong-kong/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/blog/moodle-open-source-hong-kong/</guid>
     <description>Evaluate free software, managed hosting and implementation responsibilities before choosing an open-source LMS.</description>
@@ -46,7 +46,7 @@
     <category>open-source LMS</category>
   </item>
   <item>
-    <title>Moodle architecture: an implementation checklist | OpenLMS</title>
+    <title>Moodle LMS Architecture: A Hong Kong Implementation Checklist | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/blog/moodle-architecture/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/blog/moodle-architecture/</guid>
     <description>Plan Moodle application components, permissions, plugins and recoverable operations.</description>
@@ -57,158 +57,158 @@
     <category>open-source LMS</category>
   </item>
   <item>
-    <title>OpenLMS — Open-Source LMS &amp; TMS for Hong Kong | Every Price Published</title>
+    <title>Hong Kong Moodle LMS: Corporate Training and Open-Source Freedom | OpenLMS</title>
     <link>https://lyndonteamai.github.io/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/</guid>
     <description>Moodle-based open-source LMS for Hong Kong enterprises and schools. Free software, transparent managed-service pricing, and source code freedom.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>LMS &amp; TMS Modules — Six Connected Training Modules | OpenLMS</title>
+    <title>Hong Kong LMS and TMS Solutions: Six Moodle Training Areas | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/modules/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/modules/</guid>
     <description>All six OpenLMS training modules: internal training, external training, online learning, micro learning, exam management and reporting. Modular rollout, shared employee and course data.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Internal Training Management Software Hong Kong | OpenLMS</title>
+    <title>Internal Training Management for Hong Kong HR Teams | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/modules/internal-training/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/modules/internal-training/</guid>
     <description>Internal training management for Hong Kong HR: course and class setup, enrollment and waitlist, QR code and staff card attendance, reminders, employee learning records and reporting.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>External Training Management System Hong Kong | OpenLMS</title>
+    <title>External Training Management in Hong Kong: Approvals and Claims | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/modules/external-training/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/modules/external-training/</guid>
     <description>External training management for Hong Kong HR: course applications, approval routing, sponsorship rules, reimbursement claims, certificates and supporting documents in one auditable workflow.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Online Learning LMS Hong Kong | Courses &amp; Assessments | OpenLMS</title>
+    <title>Online Learning LMS for Hong Kong: Moodle Courses and Assessments | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/modules/online-learning/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/modules/online-learning/</guid>
     <description>Online learning for Hong Kong organizations: course authoring, H5P interactive video, quizzes and knowledge checks, flexible assignment, learner progress and reporting. SCORM 1.2 (SCORM 2004 is not native to Moodle) supported.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Microlearning Platform Hong Kong | Short Video &amp; Articles | OpenLMS</title>
+    <title>Employee Microlearning for Hong Kong: Short Videos and Articles | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/modules/micro-learning/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/modules/micro-learning/</guid>
     <description>Microlearning for Hong Kong workplaces: short video and quick articles, comments and discussion, targeted delivery by role, department or topic, and engagement insight over time.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Exam Management Software Hong Kong | OpenLMS</title>
+    <title>Exam Management Planning for Hong Kong Moodle LMS Projects | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/modules/exam-management/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/modules/exam-management/</guid>
     <description>Exam management for Hong Kong: question banks, randomised papers, applications and eligibility, session and room booking, seat and computer allocation, delivery, marking and results. Runs offline.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Enterprise LMS Platform Hong Kong | HR Integration &amp; Governance | OpenLMS</title>
+    <title>Enterprise Moodle LMS for Hong Kong: Training, HR Integration, and Governance | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/platform/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/platform/</guid>
     <description>OpenLMS enterprise platform: organisational structure, role-based access, bespoke workflows, HRIS integration, SSO, API, audit history, and cloud or on-premises deployment with zero license fee.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Learning Analytics &amp; Training Reporting | OpenLMS Hong Kong</title>
+    <title>Learning Analytics and LMS Training Reports for Hong Kong Teams | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/platform/reporting/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/platform/reporting/</guid>
     <description>Training reporting and learning analytics for Hong Kong: demand analysis, training effectiveness, resource allocation, team goals, progress monitoring and custom visual reports.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>LMS Integrations Hong Kong | HRIS, SSO, API &amp; Content Libraries | OpenLMS</title>
+    <title>Moodle LMS Integration in Hong Kong: HRIS, SSO, and APIs | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/integrations/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/integrations/</guid>
     <description>Integration options for the OpenLMS platform: HRIS data exchange, single sign-on (SAML/OIDC), REST and GraphQL APIs, SCORM, xAPI, H5P and external learning libraries.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>LMS Solutions for Hong Kong Enterprises and Schools | OpenLMS</title>
+    <title>Moodle LMS Solutions for Hong Kong Enterprises and Schools | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/solutions/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/solutions/</guid>
     <description>OpenLMS solutions for Hong Kong: enterprise HR and L&amp;D training operations, school course delivery and assessment, and a side-by-side comparison of open source versus commercial LMS.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>LMS for Enterprises Hong Kong | Corporate HR &amp; L&amp;D | OpenLMS</title>
+    <title>Corporate Training LMS for Hong Kong HR and L&amp;D Teams | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/solutions/enterprise/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/solutions/enterprise/</guid>
     <description>OpenLMS for corporate Hong Kong organizations: internal and external training, approvals, sponsorship, compliance, reporting and employee records with zero license fee.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>LMS for Schools Hong Kong | Course Delivery &amp; Assessment | OpenLMS</title>
+    <title>School Moodle LMS for Hong Kong: Courses, Assessments, and Free Licensing | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/solutions/schools/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/solutions/schools/</guid>
     <description>OpenLMS for Hong Kong schools, tutoring centers and course providers: unlimited student accounts, course delivery, quizzes, assignments, progress tracking, certificates and parent communication at zero license cost.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Custom Courseware Development Hong Kong | Bespoke e-Learning Content | OpenLMS</title>
+    <title>Custom eLearning Courseware Development for Hong Kong Moodle LMS Projects | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/courseware/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/courseware/</guid>
     <description>Bespoke Hong Kong courseware development: instructional design, Traditional Chinese and English e-learning content, SCORM and H5P production, compliance and leadership programs, built to run on the OpenLMS platform.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Moodle open-source freedom for Hong Kong teams | OpenLMS</title>
+    <title>Free Open-Source Moodle LMS for Hong Kong Organizations | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/open-source/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/open-source/</guid>
     <description>OpenLMS is based on Moodle, a GPL-licensed learning management system. Moodle core provides courses, activities, quizzes, grades and learning records. Additional workflows require configuration, compatible plugins or scoped development.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Moodle LMS Pricing Hong Kong: Every Number Published | OpenLMS</title>
+    <title>Hong Kong Moodle LMS Pricing: Free Software and Published Service Rates | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/pricing/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/pricing/</guid>
     <description>Free self-managed Moodle software. Managed service: HK$30 per named user per year below 500 users; HK$20 at 500 or more. Cloud infrastructure is billed separately at cost, with no markup. On-premises installation: HK$30,000. Custom development: HK$1,500 per person-day.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Open-Source LMS vs Commercial LMS Hong Kong | OpenLMS</title>
+    <title>Open-Source vs. Commercial LMS: Hong Kong Comparison Guide | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/compare/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/compare/</guid>
     <description>An honest comparison of open-source LMS platforms and commercial Hong Kong LMS products: license cost, data ownership, customization, deployment, content standards and total cost of ownership.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Services | Courseware Development &amp; Implementation | OpenLMS</title>
+    <title>Moodle LMS Implementation and eLearning Development in Hong Kong | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/services/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/services/</guid>
     <description>OpenLMS services: bespoke Hong Kong courseware development in English, Traditional Chinese and Simplified Chinese, plus implementation and configuration support for Hong Kong enterprise deployments.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>About OpenLMS | Hong Kong Open-Source Learning Systems</title>
+    <title>About OpenLMS: Moodle LMS Services and Pricing for Hong Kong | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/about/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/about/</guid>
     <description>OpenLMS is a Hong Kong open-source LMS practice: 100% open-source core, free for every customer, every price published, with all profit going back into building more open-source software.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>LMS Questions Hong Kong | Licensing, Cost &amp; Deployment | OpenLMS</title>
+    <title>Hong Kong LMS FAQs: Moodle Licensing, Hosting, Costs, and Features | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/faq/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/faq/</guid>
     <description>Answers to common questions about open-source LMS platforms in Hong Kong: license cost, data ownership, deployment, SCORM support, HRIS integration, school use, AI and total cost of ownership.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Contact | Book an OpenLMS Demo or Consultation</title>
+    <title>Hong Kong Moodle LMS Demo, Pricing, and Implementation Consultation | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/contact/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/contact/</guid>
     <description>Book an OpenLMS demonstration or a platform implementation consultation. Bring your training process, approval policies and reporting requirements. Hong Kong enterprise LMS and school deployments, zero license fee.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
   <item>
-    <title>Blog — Hong Kong LMS Insights, Guides and Open-Source Notes | OpenLMS</title>
+    <title>Hong Kong Moodle LMS Guides: Training, Architecture, and Costs | OpenLMS</title>
     <link>https://lyndonteamai.github.io/en/blog/</link>
     <guid isPermaLink="true">https://lyndonteamai.github.io/en/blog/</guid>
     <description>Practical Moodle guidance for Hong Kong: learning design, content standards, architecture, deployment, and transparent operating costs.</description>
-    <pubDate>Mon, 09 Nov 2026 06:47:38 GMT</pubDate>
+    <pubDate>Mon, 09 Nov 2026 10:50:02 GMT</pubDate>
   </item>
 </channel>
 </rss>
