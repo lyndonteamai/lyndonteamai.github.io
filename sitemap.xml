@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://lyndonteamai.github.io/en/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/" />
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/about/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/about/" />
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/blog/" />
@@ -72,7 +72,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/compare/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/compare/" />
@@ -82,7 +82,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/compare/switch-advisor/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/compare/switch-advisor/" />
@@ -92,7 +92,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/contact/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/contact/" />
@@ -102,7 +102,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/courseware/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/courseware/" />
@@ -112,7 +112,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/faq/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/faq/" />
@@ -122,7 +122,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/integrations/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/integrations/" />
@@ -132,7 +132,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/modules/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/" />
@@ -142,7 +142,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/modules/exam-management/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/exam-management/" />
@@ -152,7 +152,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/modules/external-training/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/external-training/" />
@@ -162,7 +162,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/modules/internal-training/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/internal-training/" />
@@ -172,7 +172,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/modules/micro-learning/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/micro-learning/" />
@@ -182,7 +182,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/modules/online-learning/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/online-learning/" />
@@ -192,7 +192,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/open-source/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/open-source/" />
@@ -202,7 +202,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/platform/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/" />
@@ -212,7 +212,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/platform/deployment/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/deployment/" />
@@ -222,7 +222,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/platform/drupal-lms/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/drupal-lms/" />
@@ -232,7 +232,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/platform/reporting/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/reporting/" />
@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/pricing/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/pricing/" />
@@ -252,7 +252,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/pricing/tco-calculator/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/pricing/tco-calculator/" />
@@ -262,7 +262,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/services/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/services/" />
@@ -272,7 +272,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/services/migration/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/services/migration/" />
@@ -282,7 +282,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/smart-education-subsidy/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/smart-education-subsidy/" />
@@ -292,7 +292,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/solutions/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/" />
@@ -302,7 +302,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/solutions/enterprise/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/enterprise/" />
@@ -312,7 +312,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/solutions/funding/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/funding/" />
@@ -322,7 +322,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/solutions/industry/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/industry/" />
@@ -332,7 +332,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/solutions/retail/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/retail/" />
@@ -342,7 +342,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/solutions/schools/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/schools/" />
@@ -352,7 +352,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/solutions/sme/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/sme/" />
@@ -362,7 +362,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/en/zero-licence-fee/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/zero-licence-fee/" />
@@ -372,7 +372,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/" />
@@ -382,7 +382,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/about/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/about/" />
@@ -392,7 +392,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/blog/" />
@@ -442,7 +442,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/compare/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/compare/" />
@@ -452,7 +452,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/compare/switch-advisor/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/compare/switch-advisor/" />
@@ -462,7 +462,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/contact/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/contact/" />
@@ -472,7 +472,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/courseware/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/courseware/" />
@@ -482,7 +482,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/faq/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/faq/" />
@@ -492,7 +492,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/integrations/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/integrations/" />
@@ -502,7 +502,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/modules/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/" />
@@ -512,7 +512,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/modules/exam-management/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/exam-management/" />
@@ -522,7 +522,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/modules/external-training/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/external-training/" />
@@ -532,7 +532,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/modules/internal-training/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/internal-training/" />
@@ -542,7 +542,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/modules/micro-learning/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/micro-learning/" />
@@ -552,7 +552,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/modules/online-learning/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/online-learning/" />
@@ -562,7 +562,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/open-source/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/open-source/" />
@@ -572,7 +572,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/platform/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/" />
@@ -582,7 +582,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/platform/deployment/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/deployment/" />
@@ -592,7 +592,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/platform/drupal-lms/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/drupal-lms/" />
@@ -602,7 +602,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/platform/reporting/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/reporting/" />
@@ -612,7 +612,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/pricing/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/pricing/" />
@@ -622,7 +622,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/pricing/tco-calculator/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/pricing/tco-calculator/" />
@@ -632,7 +632,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/services/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/services/" />
@@ -642,7 +642,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/services/migration/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/services/migration/" />
@@ -652,7 +652,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/smart-education-subsidy/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/smart-education-subsidy/" />
@@ -662,7 +662,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/solutions/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/" />
@@ -672,7 +672,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/solutions/enterprise/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/enterprise/" />
@@ -682,7 +682,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/solutions/funding/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/funding/" />
@@ -692,7 +692,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/solutions/industry/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/industry/" />
@@ -702,7 +702,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/solutions/retail/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/retail/" />
@@ -712,7 +712,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/solutions/schools/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/schools/" />
@@ -722,7 +722,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/solutions/sme/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/sme/" />
@@ -732,7 +732,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hant/zero-licence-fee/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/zero-licence-fee/" />
@@ -742,7 +742,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/" />
@@ -752,7 +752,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/about/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/about/" />
@@ -762,7 +762,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/blog/" />
@@ -812,7 +812,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/compare/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/compare/" />
@@ -822,7 +822,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/compare/switch-advisor/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/compare/switch-advisor/" />
@@ -832,7 +832,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/contact/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/contact/" />
@@ -842,7 +842,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/courseware/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/courseware/" />
@@ -852,7 +852,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/faq/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/faq/" />
@@ -862,7 +862,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/integrations/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/integrations/" />
@@ -872,7 +872,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/modules/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/" />
@@ -882,7 +882,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/modules/exam-management/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/exam-management/" />
@@ -892,7 +892,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/modules/external-training/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/external-training/" />
@@ -902,7 +902,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/modules/internal-training/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/internal-training/" />
@@ -912,7 +912,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/modules/micro-learning/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/micro-learning/" />
@@ -922,7 +922,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/modules/online-learning/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/modules/online-learning/" />
@@ -932,7 +932,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/open-source/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/open-source/" />
@@ -942,7 +942,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/platform/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/" />
@@ -952,7 +952,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/platform/deployment/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/deployment/" />
@@ -962,7 +962,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/platform/drupal-lms/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/drupal-lms/" />
@@ -972,7 +972,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/platform/reporting/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/platform/reporting/" />
@@ -982,7 +982,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/pricing/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/pricing/" />
@@ -992,7 +992,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/pricing/tco-calculator/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/pricing/tco-calculator/" />
@@ -1002,7 +1002,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/services/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/services/" />
@@ -1012,7 +1012,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/services/migration/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/services/migration/" />
@@ -1022,7 +1022,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/smart-education-subsidy/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/smart-education-subsidy/" />
@@ -1032,7 +1032,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/solutions/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/" />
@@ -1042,7 +1042,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/solutions/enterprise/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/enterprise/" />
@@ -1052,7 +1052,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/solutions/funding/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/funding/" />
@@ -1062,7 +1062,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/solutions/industry/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/industry/" />
@@ -1072,7 +1072,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/solutions/retail/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/retail/" />
@@ -1082,7 +1082,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/solutions/schools/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/schools/" />
@@ -1092,7 +1092,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/solutions/sme/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/solutions/sme/" />
@@ -1102,7 +1102,7 @@
   </url>
   <url>
     <loc>https://lyndonteamai.github.io/zh-hans/zero-licence-fee/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://lyndonteamai.github.io/en/zero-licence-fee/" />
@@ -1110,4 +1110,36 @@
     <xhtml:link rel="alternate" hreflang="zh-Hans-CN" href="https://lyndonteamai.github.io/zh-hans/zero-licence-fee/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://lyndonteamai.github.io/en/zero-licence-fee/" />
   </url>
+  <url><loc>https://lyndonteamai.github.io/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/ai-learning/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/assessment/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/blended-learning/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/certification-management/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/compliance/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/contact/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/deployment-integration/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/exam-management/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/external-training-workflows/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/h5p-interactive-content/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/hong-kong-lms/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/implementation/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/integrations/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/karas-comparison/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/learning-paths/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/learning-planning/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/migration/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/mobile-learning/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/moodle-features/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/moodle-lms-vs-workplace/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/onboarding/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/online-learning/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/open-source/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/platform/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/pricing/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/reporting/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/resources/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/roles-permissions/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/scorm-elearning/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/solutions/</loc></url>
+  <url><loc>https://lyndonteamai.github.io/training-operations/</loc></url>
 </urlset>

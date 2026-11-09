@@ -1,0 +1,1 @@
+const e=document.querySelector(".menu");e?.addEventListener("click",()=>{const t=e.getAttribute("aria-expanded")!=="true";e.setAttribute("aria-expanded",String(t)),document.querySelector("header")?.classList.toggle("expanded",t)});
