@@ -1,5 +1,5 @@
 {
-  "release": "openlms-root-content-consolidation-2026-11-16",
+  "release": "openlms-graphical-experience-2026-11-16",
   "headline": "Hong Kong learning. Open-source freedom eLearning Platform",
   "seo": 110,
   "geo": 40,
@@ -8,5 +8,6 @@
     "en"
   ],
   "legacyEnglishRoutes": "retired after content transfer",
-  "canonicalOrigin": "https://www.hongkonglms.com"
+  "canonicalOrigin": "https://www.hongkonglms.com",
+  "canonicalPages": 62
 }
