@@ -1,5 +1,5 @@
 {
-  "release": "openlms-graphical-experience-2026-11-16",
+  "release": "openlms-free-license-compact-footer-2026-11-16",
   "headline": "Hong Kong learning. Open-source freedom eLearning Platform",
   "seo": 110,
   "geo": 40,
@@ -9,5 +9,6 @@
   ],
   "legacyEnglishRoutes": "retired after content transfer",
   "canonicalOrigin": "https://www.hongkonglms.com",
-  "canonicalPages": 62
+  "canonicalPages": 62,
+  "tagline": "HONG KONG TRAINING MANAGEMENT SYSTEM EXPERT"
 }
