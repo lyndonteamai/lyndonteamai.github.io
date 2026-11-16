@@ -16,14 +16,15 @@
 Six included solution areas: internal training, external training, online learning, microlearning, exam management, and reporting. These are not six native Moodle modules. Moodle core supports courses, quizzes, SCORM 1.2 and H5P. SCORM 2004 is not native. xAPI/LRS, PDF certificates, advanced approvals, and HRIS/SSO connections require suitable configuration, extensions, or development. Moodle and extensions retain their applicable license and copyright notices.
 
 ## Key pages
-- Home: https://openlms.cyberwisdomai.com/
-- Pricing: https://openlms.cyberwisdomai.com/pricing/
-- Moodle features: https://openlms.cyberwisdomai.com/moodle-features/
-- Open source: https://openlms.cyberwisdomai.com/open-source/
-- Contact: https://openlms.cyberwisdomai.com/contact/
+- Home: https://www.hongkonglms.com/
+- Pricing: https://www.hongkonglms.com/pricing/
+- Moodle features: https://www.hongkonglms.com/moodle-features/
+- Open source: https://www.hongkonglms.com/open-source/
+- Contact: https://www.hongkonglms.com/contact/
 
 ## Official foundation references
 - https://docs.moodle.org/en/Features
 - https://docs.moodle.org/en/License
 - https://docs.moodle.org/en/SCORM_FAQ
 - https://docs.moodle.org/en/H5P
+

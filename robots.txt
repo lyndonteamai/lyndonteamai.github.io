@@ -1,8 +1,8 @@
 User-agent: *
 Allow: /
-Sitemap: https://openlms.cyberwisdomai.com/sitemap.xml
+Sitemap: https://www.hongkonglms.com/sitemap.xml
 
-# AI crawlers are explicitly welcome — see https://openlms.cyberwisdomai.com/llms.txt
+# AI crawlers are explicitly welcome — see https://www.hongkonglms.com/llms.txt
 User-agent: GPTBot
 Allow: /
 User-agent: ClaudeBot
@@ -11,4 +11,5 @@ User-agent: PerplexityBot
 Allow: /
 User-agent: Google-Extended
 Allow: /
+
 
